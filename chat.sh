@@ -50,7 +50,6 @@ function help {
   echo '*************************************'
   echo '> Welcome to the chatroom'
   echo "> usage: ./ShellChat [server/client] [username] [secret] [TargetIP]*"
-  echo "> *specify IP address only in client mode"
   echo "> eg. ./ShellChat server Bob PaSsWoRd 192.168.0.1"
   echo "> eg. ./ShellChat client Alice PaSsWoRd 192.168.0.1 "
   echo '#####################################'
